@@ -1,9 +1,10 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: 5 tips for overcoming Impostor Syndrome
+description: This blog will address what Impostor Syndrome is and what you can do to combat it.
+date: 2021-06-04
 tags:
-  - horsing around
+  - impostor syndrome
+  - mental health
 layout: layouts/post.njk
 ---
 

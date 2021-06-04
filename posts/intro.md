@@ -1,11 +1,12 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: My story
+description: This is a brief introduction to my journey into the tech industry
+date: 2021-06-03
 tags:
-  - number 2
+  - intro
 layout: layouts/post.njk
 ---
+
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 ## Section Header
